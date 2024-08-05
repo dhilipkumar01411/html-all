@@ -1,0 +1,25 @@
+.main-body{
+    background-image: url(./Image/partice.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 15%;
+    
+    width: 15%;
+    margin-left: 5%;
+    
+    
+
+}
+
+.main{
+    margin-left: 500%;
+    margin-top: -95%;
+    font-family: cursive;
+    font-size: x-large;
+    color: darkblue;
+}
+
+.bg-img{
+    width: 200px;
+    height: 150px;
+}

@@ -1,0 +1,11 @@
+.display-main{
+    width: 700px;
+    height: 400px;
+    margin-right: 10px;
+}
+
+.main{
+    background-image: url(./Image/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
